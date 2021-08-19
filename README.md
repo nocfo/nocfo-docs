@@ -26,10 +26,4 @@ This command generates static content into the `build` directory and can be serv
 
 ## Deployment
 
-```console
-# Log into AWS using NoCFO credentials
-aws sso login --profile nocfo
-
-# Trigger manual deployment
-npm run deploy
-```
+Documentation site [docs.nocfo.io](https://docs.nocfo.io) will be automagically deployed when new changes is being pushed to `main` branch.
