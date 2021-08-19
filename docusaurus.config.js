@@ -44,19 +44,6 @@ module.exports = {
               to: '/releases'
             }
           ]
-        },
-        {
-          title: 'Linkit',
-          items: [
-            {
-              label: 'nocfo.fi',
-              href: 'https://nocfo.fi'
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/nocfo/nocfo-docs'
-            }
-          ]
         }
       ],
       copyright: `Copyright © 2020 - ${new Date().getFullYear()} NoCFO Oy`
@@ -81,17 +68,22 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/nocfo/nocfo-docs',
-          routeBasePath: '/'
+          editUrl: 'https://github.com/nocfo/nocfo-docs/edit/main',
+          routeBasePath: '/',
+          showLastUpdateTime: true
         },
         blog: {
           path: './releases',
           routeBasePath: '/releases',
           showReadingTime: false,
-          editUrl: 'https://github.com/nocfo/nocfo-docs'
+          editUrl: 'https://github.com/nocfo/nocfo-docs/edit/main'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css')
+        },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5
         }
       }
     ]
