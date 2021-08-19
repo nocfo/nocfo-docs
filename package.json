@@ -1,0 +1,44 @@
+{
+  "name": "nocfo-docs-2",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "docusaurus": "docusaurus",
+    "start": "docusaurus start",
+    "build": "DEBUG=search-local:* docusaurus build",
+    "deploy": "echo \"Uploading files ...\" && aws s3 sync build/ s3://docs.nocfo.io --profile nocfo && echo \"Invalidating distribution ...\" && aws cloudfront create-invalidation --distribution-id E6862I3E04PBY --profile nocfo --paths \"/*\"",
+    "swizzle": "docusaurus swizzle",
+    "clear": "docusaurus clear",
+    "serve": "docusaurus serve",
+    "write-translations": "docusaurus write-translations",
+    "write-heading-ids": "docusaurus write-heading-ids",
+    "prettier": "prettier --write ."
+  },
+  "dependencies": {
+    "@docusaurus/core": "2.0.0-beta.4",
+    "@docusaurus/preset-classic": "2.0.0-beta.4",
+    "@docusaurus/theme-search-algolia": "^2.0.0-beta.4",
+    "@easyops-cn/docusaurus-search-local": "^0.19.1",
+    "@mdx-js/react": "^1.6.21",
+    "@svgr/webpack": "^5.5.0",
+    "clsx": "^1.1.1",
+    "file-loader": "^6.2.0",
+    "prettier": "^2.3.2",
+    "prism-react-renderer": "^1.2.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "url-loader": "^4.1.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
