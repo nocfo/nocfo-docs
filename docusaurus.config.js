@@ -52,11 +52,6 @@ module.exports = {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme
     },
-    // algolia: {
-    //   apiKey: "6e8f11cf1fcd549970f999f01b5fc656",
-    //   indexName: "nocfo-docs",
-    //   appId: "G7RSAHUXZX",
-    // },
     gtag: {
       trackingID: 'G-90LEP99B24',
       anonymizeIP: true
