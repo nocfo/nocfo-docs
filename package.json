@@ -6,7 +6,6 @@
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "DEBUG=search-local:* docusaurus build",
-    "deploy": "echo \"Uploading files ...\" && aws s3 sync build/ s3://docs.nocfo.io --profile nocfo && echo \"Invalidating distribution ...\" && aws cloudfront create-invalidation --distribution-id E6862I3E04PBY --profile nocfo --paths \"/*\"",
     "swizzle": "docusaurus swizzle",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
@@ -16,6 +15,8 @@
   },
   "dependencies": {
     "@docusaurus/core": "2.0.0-beta.4",
+    "@docusaurus/plugin-google-analytics": "^2.0.0-beta.4",
+    "@docusaurus/plugin-sitemap": "^2.0.0-beta.4",
     "@docusaurus/preset-classic": "2.0.0-beta.4",
     "@docusaurus/theme-search-algolia": "^2.0.0-beta.4",
     "@easyops-cn/docusaurus-search-local": "^0.19.1",
