@@ -9,15 +9,15 @@ sidebar_position: 3
 </figure>
 
 - Tapahtuman luonti alkaa kohdasta Uusi tapahtuma. Tapahtuman luonnin voi aloittaa myös pikanäppäimellä (N)
-- Tapahtumalle voi valita liitteen suoraan Arkistosta tai lataamalla omasta kansiorakenteesta.
+- Tapahtumalle voi valita liitteen suoraan Arkistosta tai lataamalla omasta kansiorakenteesta
 - Tapahtumatyyppejä on kolme
   - Osto: Kun kirjaat yrityksen ostoja
   - Myynti: Kun kirjaat yrityksen myyntejä
-  - Muu tapahtuma: Muun tapahtuman kautta pystyt tekemään käytännössä millaisia Depet ja Kredit kirjauksia tahansa.
+  - Muu tapahtuma: Muun tapahtuman kautta pystyt tekemään käytännössä millaisia Depet ja Kredit kirjauksia tahansa
 - Valitaan tapahtuman päivämäärä
 - Tapahtuman kuvaus
-- Tunniste: Tunnisteen avulla voit hakea tapahtumaselailussa saman tunnisteen tapahtumia.
+- Tunniste: Tunnisteen avulla voit hakea tapahtumaselailussa saman tunnisteen tapahtumia
 - Valitaan maksutapa
 - Valitaan tili
-- Tarkastetaan alv-käsittely ja prosentti. Käsittelyn ja prosentin perusteella lasketaan
+- Tarkastetaan alv-käsittely ja prosentti
 - Syötetään tapahtuman bruttosumma
