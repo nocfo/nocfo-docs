@@ -1,7 +1,7 @@
 # Yrityksen lisääminen
 
 <figure class="video-container">
-	<iframe width="100%" src="https://youtu.be/embed/iRFPKyhAe8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
+	<iframe width="100%" src="https://www.youtube.com/embed/iRFPKyhAe8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
 </figure>
 
 - Yrityksen lisääminen alkaa kohdasta Uusi yritys
