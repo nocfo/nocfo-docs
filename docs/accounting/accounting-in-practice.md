@@ -1,14 +1,16 @@
-# Kuinka teen kirjanpitoa käytännössä?
+# Kirjanpito käytännössä
+
+## Kuinka teen kirjanpitoa käytännössä?
 
 Tässä pikaoppaassa esitellään ja ohjataan kirjanpidon tekeminen tilikauden aikana maksuperusteisesti. Tilikauden päättyessä kirjanpito muutetaan kuitenkin suoriteperusteiseksi tilinpäätöskirjausten avulla. Tämä on melko yleinen ja yksinkertainen pienyritysten tapa tehdä kirjanpitoa, minkä takia keskitymme tässä pikaoppaassa siihen.
 
-## Step 1: Kaiva esiin pankkitiliote tai muu rahaliikenteen raportti
+### Step 1: Kaiva esiin pankkitiliote tai muu rahaliikenteen raportti
 
 Pankkitiliotteen tai muun rahaliikenneraportin kuten kassaraportin pohjalta on helppo tehdä kirjanpitoa maksuperusteisesti. Pankkitiliotteelta kirjauksia tehdessä voi olla kannattavaa tehdä kirjanpito tehdä kuukausittain, koska yleensä tiliotteet muodostuvat myös kuukausittain.
 
 Ensimmäiseksi pankkiotteelta kannattaa tarkastaa kauden eli kuukauden alkusaldo, joka yleensä näkyy pankkitiliotteen ensimmäisen yläreunassa. Saldon eli pankkitilillä kuukauden alussa olevan rahamäärän tulisi vastata sitä, joka näkyy myös kirjanpidon Tase raportilla kyseisen kirjanpitotilin kohdalla (eli tässä tapauksessa esim. 1910 Pankkitili kohdalla).
 
-## Step 2: Tapahtumien kirjaus
+### Step 2: Tapahtumien kirjaus
 
 Kun olet tarkastanut, että pankkitilin saldo täsmää kirjanpidossa olevaan arvoon, voit aloittaa tapahtumien syöttämisen. Aloita aina tiliotteen ensimmäisestä tapahtumasta alkaen ja käsittele jokainen tiliotteen tapahtuma kerrallaan läpi. Kaksinkertaisessa kirjanpidossa pankkitilin kirjanpitotili pysyy aina saman koko tiliotteen tapahtumien syötön ajan (esim. 1910 Pankkitili).
 
@@ -16,7 +18,7 @@ Kun pankkitilille tulee rahaa, kirjataan ensin summa pankkitilin Debet-puolelle 
 
 Huomioi, että jos sinulla on useampi pankkitili, tulisi jokaiselle pankkitilille olla myös oma kirjanpidon tilinsä (esim. 1910 Nordea ja 1920 Handelsbanken). Edellä mainittu tapahtumien kirjaus onnistuu yhtälailla myös kassaraporttien syöttämiseen, jolloin tilinä on yleensä esimerkiksi 1900 Käteisvarat.
 
-## Step 3: Välicheckit
+### Step 3: Välicheckit
 
 Kun teet kirjanpitoa tiliotteen pohjalta, muista syöttää kaikki tiliotteella olevat tapahtumat. Voit esimerkiksi avata ne PDF:nä ja merkata aina jonkin merkin tapahtuman kohdalle, kun se on syötetty kirjanpitoon.
 
@@ -24,13 +26,13 @@ Lopuksi syötettyäsi kaikki tiliotteen tapahtumat, tarkasta pankkitiliotteelta 
 
 Mikäli kirjanpidossa oleva summa eroaa pankkitilillä olevasta summasta, on tapahtumien syötössä tullut virhe. Virhettä kannattaa lähteä etsimään esimerkiksi niin, että ensimmäisenä tarkistaa tiliotteen alkusaldon täsmäävyyden kirjanpidon arvoon. Tämän jälkeen tiliotteelta voi löytyä välisaldoja tietyiltä päiviltä (esim. kuun puolen välin tiennoilta) ja sitä kautta voi virheellistä tapahtumaa yrittää etsiä. Jos tiliotteella ei ole paljon tapahtumia, helpoin tapa on kuitenkin käydä jokainen tapahtuma uudelleen läpi ja katsoa, että tapahtuman summa on syötetty kirjanpitoon oikein.
 
-## Step 4: Raportit ja raportointi
+### Step 4: Raportit ja raportointi
 
 Tärkein raportti edellä mainittuja välicheckejä varten on Tase-raportti tilierittelyineen. Taseesta löytyy myös Pankkitilien arvot. Tase on ote tietyltä ajanhetkeltä (esim. 31.12.2021) ja se näyttää arvot, jotka ovat tileillä juuri silloin kyseisen päivän tapahtumien syöttämisen jälkeen. Tämän takia Taseen avulla on hyvä yrittää etsiä virheitä esimerkiksi pankkitilin tapahtumien syötössä.
 
 Tuloslaskelma taas on ote tietyltä aikaväliltä (esim. 1.12. - 31.12.2021) ja se näyttää Tuloslaskelman tilien arvot tuolla aikavälillä. Tuloslaskelman tarkastelu antaa hyvän lähtökohdan liiketoimintasi kehittymisen seuraamiseen. Lisäksi NoCFO:ssa voit luoda vertailukausia, joten voit hyvin vertailla esim. Joulukuun ja Marraskuun Tuloslaskelman arvoja (kuten Liikevaihtoa ja Liiketulosta) ja sitä kautta saada käsitystä siitä mihin yrityksesi liiketoiminta on menossa.
 
-## Step 5: Tilinpäätöskirjaukset
+### Step 5: Tilinpäätöskirjaukset
 
 Tilikauden päättyessä on aika muuttaa maksuperusteiset kirjaukset suoriteperusteiseksi. Tämä tarkoittaa sitä, että maksupäivän sijaan kulun kirjaamisen perusteena on tuotteen, palvelun tai muun suoritteen vastaanottaminen tai tulon kirjaamisen perusteena on vastaavasti suoritteen luovuttaminen.
 
@@ -42,7 +44,7 @@ Myyntitapahtumassa esimerkkinä voi olla tuotteen myynti ja tuotteen luovutus sa
 
 Kun rahat ajallaan tulevat/lähtevät tililtä, tehdään kirjaus niin, että Pankkitililtä lähtee/tulee rahaa ja tällöin vastakirjaus Ostovelat/Myyntisaamiset tilille, mikä kumoaa edellisen tilikauden puolella tehdyn kirjauksen.
 
-## Step 6: Tilikauden sulkeminen ja viimeistely
+### Step 6: Tilikauden sulkeminen ja viimeistely
 
 Ennen tilikauden sulkemista pitää välicheckkien lisäksi tarkistaa, että kaikki tapahtumat ovat syötetty kirjanpitoon ja että jokaisella tapahtumalla on tallessa oleva kuitti/lasku/tosite. Mikäli Taseessa on varoja, joille voi tehdä Poistokirjauksia, tulee ne tehdä myös ennen tilikauden sulkemista.
 
