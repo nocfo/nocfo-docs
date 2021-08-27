@@ -1,10 +1,6 @@
-  
-
 # Mitä on kirjanpito ja mistä se koostuu?
 
 Kirjanpidon tehtävänä on tuottaa tietoa yrityksen taloudellisesta tilanteesta niin yritykselle itselleen kuin myös ulkoisille sidosryhmille (verottaja, pankki, sijoittaja, yms.).
-
-  
 
 Kirjanpito kulkee alusta “loppuun” seuraavasti:
 
@@ -29,7 +25,7 @@ Taseen ensimmäinen puolikas eli Vastaavat kertoo yrityksen varallisuuden (tilin
 
 1.  Pysyvät vastaavat, joita ovat esimerkiksi kiinteistöt, kalustot, patentit eli ne ovat nimensä mukaisesti yrityksen pitkäaikaisessa omistuksessa olevia varoja
 
-2. Vaihtuvat vastaavat, joita ovat esimerkiksi yrityksen aine- ja tarvikevarasto, saamiset sekä rahat ja pankkisaamiset, eli ne ovat lyhyt aikaisempia varallisuuseriä kuin pysyvät vastaavat
+2.  Vaihtuvat vastaavat, joita ovat esimerkiksi yrityksen aine- ja tarvikevarasto, saamiset sekä rahat ja pankkisaamiset, eli ne ovat lyhyt aikaisempia varallisuuseriä kuin pysyvät vastaavat
 
 ### Tase: Oma pääoma
 
@@ -42,27 +38,21 @@ Taseeen Vastattavaa jälkimmäinen puolisko koostuu Vieraasta pääomasta eli ve
 1.  Pitkäaikaiseen (takaisinmaksuaika yli vuoden kuluttua) ja
 2.  Lyhytaikaiseen vieraaseen pääomaan (takaisinmaksu vähintään vuoden sisällä)
 
-  
-
 ### Tuloslaskelma: Tulot
 
 Kuten mainittua aiemmin, tuloslaskelma kertoo yrityksen tulot ja menot tietyltä aikaväliltä. Tuloslaskelman tuloista yleisin ja tutuin on varmasti Liikevaihto, joka on myyntituottojen yhteenlaskettu summa (arvonlisäveroton summa).
 
-  
-
 Muita tuloja Tuloslaskelmassa ovat esimerkiksi Liiketoiminnan muut tuotot sekä Rahoitustuotot. Liiketoiminnan muut tuotot pitävän sisällään lähes kaikki muut myyntituotot, jotka eivät kuulu yrityksen ns. core-bisnekseen (esim. auton myyntivoittotulo olettaen, että yritys ei ole autokauppias). Rahoitustuottoihin taas kirjataan esimerkiksi korkotuotot, sijoitustuotot ja esimerkiksi myyntisaamisten viivästyskorkotuotot.
-
-  
 
 ### Tuloslaskelma: Menot
 
 Tuloslaskelman menoerät voidaan jakaa useampaan osaan menoeriä on paljon erilaisia, mutta yleisimmät ovat:
 
--   Materiaalit ja palvelut
--   Henkilöstökulut
--   Poistot ja arvonalentumiset
--   Liiketoiminnan muut kulut
--   Rahoitustuotot ja -kulut
--   Tuloverot
+- Materiaalit ja palvelut
+- Henkilöstökulut
+- Poistot ja arvonalentumiset
+- Liiketoiminnan muut kulut
+- Rahoitustuotot ja -kulut
+- Tuloverot
 
 Menoeriä voidaan vielä edelleen jakaa pienempien väliotsikoiden alle. Erityisesti liiketoiminnan muut kulut jaetaan yleensä esimerkiksi toimitila-, ajoneuvo-, markkinointikuluihin sekä muutamiin muihin.
