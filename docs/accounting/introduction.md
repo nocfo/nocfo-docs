@@ -10,9 +10,7 @@ Tarkoituksenamme ei ole tuottaa korkeakoulutason kirjanpitokoulutusta, vaan aino
 
 Muista katsoa myös mallitapahtumat, joista löydät esimerkkejä yleisiin kirjauksiin ja niiden tekemiseen. Voit sieltä hakea hieman tukea oman kirjauksen tekemiseen, mikäli se tuntuu epävarmalta. Jos ei siltikään meinaa onnistua, niin ota yhteyttä meihin ja me neuvotaan eteenpäin.
 
-  
-
 ## Pikaoppaan sisältö
 
--   [Kirjanpidon rakenne](https://docs.nocfo.io/accounting-structure) - Mistä kirjanpito koostuu. Varat, velat, oma pääoma, tulot ja menot.
--   [Kirjanpito käytännössä](https://docs.nocfo.io/accounting-in-practice) - Miten tehdä kirjanpitoa käytännössä maksuperusteisesti
+- [Kirjanpidon rakenne](https://docs.nocfo.io/accounting-structure) - Mistä kirjanpito koostuu. Varat, velat, oma pääoma, tulot ja menot.
+- [Kirjanpito käytännössä](https://docs.nocfo.io/accounting-in-practice) - Miten tehdä kirjanpitoa käytännössä maksuperusteisesti
