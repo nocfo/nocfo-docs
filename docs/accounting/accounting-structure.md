@@ -1,4 +1,5 @@
 # Kirjanpidon rakenne
+
 ## Mitä on kirjanpito ja mistä se koostuu?
 
 Kirjanpidon tehtävänä on tuottaa tietoa yrityksen taloudellisesta tilanteesta niin yritykselle itselleen kuin myös ulkoisille sidosryhmille (verottaja, pankki, sijoittaja, yms.).
