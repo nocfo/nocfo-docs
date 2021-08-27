@@ -1,15 +1,17 @@
-# Kirjanpidon rakenne
+  
 
-## Mitä on kirjanpito ja mistä se koostuu?
+# Mitä on kirjanpito ja mistä se koostuu?
 
 Kirjanpidon tehtävänä on tuottaa tietoa yrityksen taloudellisesta tilanteesta niin yritykselle itselleen kuin myös ulkoisille sidosryhmille (verottaja, pankki, sijoittaja, yms.).
 
+  
+
 Kirjanpito kulkee alusta “loppuun” seuraavasti:
 
-1. Kirjanpito alkaa liiketapahtumasta, esimerkiksi kahvin myynti tai vaikka kahvipaketin osto
-2. Tästä tapahtumasta on oltava tosite (kuitti, lasku, sopimus, jne.), jolla todennetaan liiketapahtuma tapahtuneeksi.
-3. Kun tosite on olemassa, voidaan siitä tehdä kirjaus kirjanpidossa. Esimerkiksi kahvin myynti kirjattaisiin yrityksen myynteihin. Kirjauksen yhteydessä arvonlisävero-osuus (ALV-osuus) eritellään kirjanpidossa. NoCFO tekee tämän automaattisesti, kunhan sinulla on oikea ALV-prosentti sekä ALV-käsittely valittuna.
-4. Tämän ja kaikkien muiden tilikauden (eli yleensä vuoden) aikana tapahtuneiden kirjausten pohjalta muodostetaan aikaan tilinpäätös, joka toimii THE raporttina kaikille ulkopuolisille sidosryhmille. Myös muita raportteja näistä kirjauksista voi laatia jo aiemmin esim. kuukauden välein
+1.  Kirjanpito alkaa liiketapahtumasta, esimerkiksi kahvin myynti tai vaikka kahvipaketin osto
+2.  Tästä tapahtumasta on oltava tosite (kuitti, lasku, sopimus, jne.), jolla todennetaan liiketapahtuma tapahtuneeksi.
+3.  Kun tosite on olemassa, voidaan siitä tehdä kirjaus kirjanpidossa. Esimerkiksi kahvin myynti kirjattaisiin yrityksen myynteihin. Kirjauksen yhteydessä arvonlisävero-osuus (ALV-osuus) eritellään kirjanpidossa. NoCFO tekee tämän automaattisesti, kunhan sinulla on oikea ALV-prosentti sekä ALV-käsittely valittuna.
+4.  Tämän ja kaikkien muiden tilikauden (eli yleensä vuoden) aikana tapahtuneiden kirjausten pohjalta muodostetaan aikaan tilinpäätös, joka toimii THE raporttina kaikille ulkopuolisille sidosryhmille. Myös muita raportteja näistä kirjauksista voi laatia jo aiemmin esim. kuukauden välein
 
 Tiivistetysti kirjanpitoa tehdään siis liiketapahtumien tositteiden pohjalta ja niistä voidaan muodostaa erilaisia raportteja, jotka kertovat yrityksen sen hetken tilasta. Simple as that.
 
@@ -25,7 +27,8 @@ Tuloslaskelma ja Tase ovat yrityksen kaksi tärkeintä raporttia, jotka jokaisen
 
 Taseen ensimmäinen puolikas eli Vastaavat kertoo yrityksen varallisuuden (tilinumerot väliltä 0-2000 ovat näitä tilejä). Taseen toinen puolisko taas kertoo millä nämä varat ovat rahoitettu. Taseen varat voidaan jakaa edelleen kahteen osa-alueeseen:
 
-1. Pysyvät vastaavat, joita ovat esimerkiksi kiinteistöt, kalustot, patentit eli ne ovat nimensä mukaisesti yrityksen pitkäaikaisessa omistuksessa olevia varoja
+1.  Pysyvät vastaavat, joita ovat esimerkiksi kiinteistöt, kalustot, patentit eli ne ovat nimensä mukaisesti yrityksen pitkäaikaisessa omistuksessa olevia varoja
+
 2. Vaihtuvat vastaavat, joita ovat esimerkiksi yrityksen aine- ja tarvikevarasto, saamiset sekä rahat ja pankkisaamiset, eli ne ovat lyhyt aikaisempia varallisuuseriä kuin pysyvät vastaavat
 
 ### Tase: Oma pääoma
@@ -36,21 +39,30 @@ Taseen Vastattavaa puoli kertoo miten yllä mainitut yrityksen varat on rahoitet
 
 Taseeen Vastattavaa jälkimmäinen puolisko koostuu Vieraasta pääomasta eli veloista. Velat koostuvat yrityksen ulkopuolisilta lainatuista rahoituseristä kuten esimerkiksi ostoveloista ja pankkilainasta. Velkaan liittyy yleensä takaisinmaksuvelvollisuus sekä siitä voi joutua maksamaan rahoituskustannusta eli korkoa. Vieras pääoma jaetaan yleensä:
 
-1. Pitkäaikaiseen (takaisinmaksuaika yli vuoden kuluttua) ja
-2. Lyhytaikaiseen vieraaseen pääomaan (takaisinmaksu vähintään vuoden sisällä)
+1.  Pitkäaikaiseen (takaisinmaksuaika yli vuoden kuluttua) ja
+2.  Lyhytaikaiseen vieraaseen pääomaan (takaisinmaksu vähintään vuoden sisällä)
+
+  
 
 ### Tuloslaskelma: Tulot
 
 Kuten mainittua aiemmin, tuloslaskelma kertoo yrityksen tulot ja menot tietyltä aikaväliltä. Tuloslaskelman tuloista yleisin ja tutuin on varmasti Liikevaihto, joka on myyntituottojen yhteenlaskettu summa (arvonlisäveroton summa).
 
+  
+
 Muita tuloja Tuloslaskelmassa ovat esimerkiksi Liiketoiminnan muut tuotot sekä Rahoitustuotot. Liiketoiminnan muut tuotot pitävän sisällään lähes kaikki muut myyntituotot, jotka eivät kuulu yrityksen ns. core-bisnekseen (esim. auton myyntivoittotulo olettaen, että yritys ei ole autokauppias). Rahoitustuottoihin taas kirjataan esimerkiksi korkotuotot, sijoitustuotot ja esimerkiksi myyntisaamisten viivästyskorkotuotot.
+
+  
 
 ### Tuloslaskelma: Menot
 
 Tuloslaskelman menoerät voidaan jakaa useampaan osaan menoeriä on paljon erilaisia, mutta yleisimmät ovat:
 
-- Materiaalit ja palvelut
-- Henkilöstökulut
-- Poistot ja arvonalentumiset
-- Liiketoiminnan muut kulut
-  - Markkinointi,
+-   Materiaalit ja palvelut
+-   Henkilöstökulut
+-   Poistot ja arvonalentumiset
+-   Liiketoiminnan muut kulut
+-   Rahoitustuotot ja -kulut
+-   Tuloverot
+
+Menoeriä voidaan vielä edelleen jakaa pienempien väliotsikoiden alle. Erityisesti liiketoiminnan muut kulut jaetaan yleensä esimerkiksi toimitila-, ajoneuvo-, markkinointikuluihin sekä muutamiin muihin.
