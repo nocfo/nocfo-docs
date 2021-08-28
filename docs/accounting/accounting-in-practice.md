@@ -6,13 +6,13 @@ Tässä pikaoppaassa esitellään ja ohjataan kirjanpidon tekeminen tilikauden a
 
 ### Step 1: Kaiva esiin pankkitiliote tai muu rahaliikenteen raportti
 
-Pankkitiliotteen tai muun rahaliikenneraportin kuten kassaraportin pohjalta on helppo tehdä kirjanpitoa maksuperusteisesti. Pankkitiliotteelta kirjauksia tehdessä voi olla kannattavaa tehdä kirjanpito tehdä kuukausittain, koska yleensä tiliotteet muodostuvat myös kuukausittain.
+Pankkitiliotteen tai muun rahaliikenneraportin kuten kassaraportin pohjalta on helppo tehdä kirjanpitoa maksuperusteisesti. Pankkitiliotteelta kirjauksia tehdessä voi olla kannattavaa tehdä kirjanpito kuukausittain, koska yleensä tiliotteet muodostuvat myös kuukausittain.
 
-Ensimmäiseksi pankkiotteelta kannattaa tarkastaa kauden eli kuukauden alkusaldo, joka yleensä näkyy pankkitiliotteen ensimmäisen yläreunassa. Saldon eli pankkitilillä kuukauden alussa olevan rahamäärän tulisi vastata sitä, joka näkyy myös kirjanpidon Tase raportilla kyseisen kirjanpitotilin kohdalla (eli tässä tapauksessa esim. 1910 Pankkitili kohdalla).
+Ensimmäiseksi pankkitiliotteelta kannattaa tarkastaa kauden eli kuukauden alkusaldo, joka yleensä näkyy pankkitiliotteen ensimmäisen sivun yläreunassa. Saldon eli pankkitilillä kuukauden alussa olevan rahamäärän tulisi vastata sitä, joka näkyy myös kirjanpidon taseraportilla kyseisen kirjanpitotilin kohdalla (eli tässä tapauksessa esim. 1910 Pankkitili kohdalla).
 
 ### Step 2: Tapahtumien kirjaus
 
-Kun olet tarkastanut, että pankkitilin saldo täsmää kirjanpidossa olevaan arvoon, voit aloittaa tapahtumien syöttämisen. Aloita aina tiliotteen ensimmäisestä tapahtumasta alkaen ja käsittele jokainen tiliotteen tapahtuma kerrallaan läpi. Kaksinkertaisessa kirjanpidossa pankkitilin kirjanpitotili pysyy aina saman koko tiliotteen tapahtumien syötön ajan (esim. 1910 Pankkitili).
+Kun olet tarkastanut, että pankkitilin saldo täsmää kirjanpidossa olevaan arvoon, voit aloittaa tapahtumien syöttämisen. Aloita aina tiliotteen ensimmäisestä tapahtumasta ja käsittele jokainen tiliotteen tapahtuma kerrallaan läpi. Kaksinkertaisessa kirjanpidossa pankkitilin kirjanpitotili pysyy aina samana koko tiliotteen tapahtumien syötön ajan (esim. 1910 Pankkitili).
 
 Kun pankkitilille tulee rahaa, kirjataan ensin summa pankkitilin Debet-puolelle ja sen jälkeen vastakirjaus toiselle tilille (esim. Myynti) Kredit-puolelle. Vastaavasti kun pankkitililtä lähtee rahaa, kirjataan ensin summa pankkitilin Kredit-puolelle ja sen jälkeen vastakirjaus toiselle tilille (esim. Ostot) Debet-puolelle. Kun käytät NoCFO:n Osto- tai Myyntitapahtumia tapahtumia syöttääksesi, voit vain valita aina maksutavaksi Pankkitilin.
 
@@ -49,3 +49,11 @@ Kun rahat ajallaan tulevat/lähtevät tililtä, tehdään kirjaus niin, että Pa
 Ennen tilikauden sulkemista pitää välicheckkien lisäksi tarkistaa, että kaikki tapahtumat ovat syötetty kirjanpitoon ja että jokaisella tapahtumalla on tallessa oleva kuitti/lasku/tosite. Mikäli Taseessa on varoja, joille voi tehdä Poistokirjauksia, tulee ne tehdä myös ennen tilikauden sulkemista.
 
 Kun kirjanpito on koko tilikauden ajalta tarkastettu ja todettu paikkaansa pitäväksi, voidaan tilikausi sulkea ja laatia siitä tilinpäätös. Tilinpäätöksen avulla raportoidaan yrityksen taloudellinen tilanne ulkoisille sidosryhmille, kuten esim. yleensä Verottajalle ja PRH:lle. Omaverossa voi suoraan syöttää yrityksen tilikauden tiedot Tuloveron laskemista varten sekä samalla lähettää tilinpäätöksensä PRH:lle (jos tarvii).
+
+## Hyödyllisiä linkkejä
+
+Maksuperusteisen kirjanpidon rajat: [Vero.fi](https://www.vero.fi/yritykset-ja-yhteisot/verot-ja-maksut/arvonlisaverotus/vahainen-liiketoiminta-on-arvonlisaverotonta/pienyrityksen-maksuperusteinen-alv/)
+
+Yhdenkertainen ja kahdenkertainen kirjanpito: [Vero.fi](https://www.vero.fi/yritykset-ja-yhteisot/yritystoiminta/uusi-yritys/kirjanpito-tilikausi-verokausi/)
+
+
