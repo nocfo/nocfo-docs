@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Kirjanpidon rakenne
 
 ## Mitä on kirjanpito ja mistä se koostuu?
