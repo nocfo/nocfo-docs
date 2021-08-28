@@ -23,5 +23,5 @@ Koko ohjelma ja myös tämä dokumentti on tehty sitä varten, että sinä voisi
 
 Olemme pyrkineet rakentamaan ohjeet niin, että ne olisivat mahdollisimman selkeät ja helposti tavoitettavissa. Ohjeet koostuvat tekstien lisäksi videoista, joita lisäilemme tarpeen ja palautteiden perusteella. Päivitämme ohjeita jatkuvasti, joten käyhän ohjeet tarvittaessa vielä uudestaan läpi myöhemmin erityisesti uusien ominaisuuksien julkaisujen yhteydessä.
 
-- [Palvelun käyttöohjeet/tutorials](https://docs.nocfo.io/tutorials/introduction) - Ohjeet kädestä pitäen palvelun käyttöä varten
+- [Palvelun käyttöohjeet/tutoriaalit](https://docs.nocfo.io/tutorials/corporate-creation) - Ohjeet kädestä pitäen palvelun käyttöä varten
 - [Kirjanpito 101](https://docs.nocfo.io/accounting/introduction) - Opi tekemään kirjanpitosi itse sekä ymmärrä miten yritykselläsi menee
