@@ -55,5 +55,3 @@ Kun kirjanpito on koko tilikauden ajalta tarkastettu ja todettu paikkaansa pitä
 Maksuperusteisen kirjanpidon rajat: [Vero.fi](https://www.vero.fi/yritykset-ja-yhteisot/verot-ja-maksut/arvonlisaverotus/vahainen-liiketoiminta-on-arvonlisaverotonta/pienyrityksen-maksuperusteinen-alv/)
 
 Yhdenkertainen ja kahdenkertainen kirjanpito: [Vero.fi](https://www.vero.fi/yritykset-ja-yhteisot/yritystoiminta/uusi-yritys/kirjanpito-tilikausi-verokausi/)
-
-
