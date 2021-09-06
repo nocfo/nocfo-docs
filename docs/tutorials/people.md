@@ -1,1 +1,1 @@
-![people image](/img/docs/users.PNG "People image")
+![people image](/img/docs/users.PNG 'People image')
