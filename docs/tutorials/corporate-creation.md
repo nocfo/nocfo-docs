@@ -10,6 +10,7 @@ sidebar_position: 1
 
 Yrityksen perustaminen nocfoon on helppoa kuin mikä! Tarvitset siihen vain y-tunnuksen. Kysymme myös muutaman yksinkertaisen kysymyksen, jotta palvelun käytön aloittaminen onnistuisi ilman ylimääräistä säätöä.
 Yrityksen lisääminen tapahtuu seuraavasti:
+
 - Yrityksen lisääminen alkaa kohdasta Uusi yritys
 - Annetaa yrityksen y-tunnus. Jos yritys löytyy PRH:n avoimesta rajapinnasta, täytetään yrityksen nimi ja yhtiömuoto automaattisesti
 - Annetaan yrityksen virallinen nimi
