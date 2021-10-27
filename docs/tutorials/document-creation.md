@@ -9,6 +9,7 @@ sidebar_position: 3
 </figure>
 
 Tapahtuma luodaan seuraavasti:
+
 - Tapahtuman luonti alkaa kohdasta Uusi tapahtuma. Tapahtuman luonnin voi aloittaa myös pikanäppäimellä (N)
 - Tapahtumalle voi valita liitteen suoraan Arkistosta tai lataamalla omasta kansiorakenteesta
 - Tapahtumatyyppejä on kolme
