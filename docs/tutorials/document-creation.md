@@ -8,6 +8,7 @@ sidebar_position: 3
 	<iframe width="100%" src="https://www.youtube.com/embed/c0Pw7f_OmZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
 </figure>
 
+Tapahtuma luodaan seuraavasti:
 - Tapahtuman luonti alkaa kohdasta Uusi tapahtuma. Tapahtuman luonnin voi aloittaa myös pikanäppäimellä (N)
 - Tapahtumalle voi valita liitteen suoraan Arkistosta tai lataamalla omasta kansiorakenteesta
 - Tapahtumatyyppejä on kolme
