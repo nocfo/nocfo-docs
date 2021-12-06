@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Käyttäjät
 
-![people image](/img/docs/image 9.PNG 'People image')
+![people image](/img/docs/users3.PNG 'People image')
 
 Käyttäjäasetuksista voit hallinnoida nocfon käyttäjiin liittyviä tietoja ja esimerkiksi kutsua uusia käyttäjiä. Käyttäjärooleja on kaksi erilaista:
 
