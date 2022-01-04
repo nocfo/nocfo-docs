@@ -12,5 +12,5 @@ Muista katsoa myös mallitapahtumat, joista löydät esimerkkejä yleisiin kirja
 
 ## Pikaoppaan sisältö
 
-- [Kirjanpidon rakenne](https://docs.nocfo.io/accounting-structure) - Mistä kirjanpito koostuu. Varat, velat, oma pääoma, tulot ja menot.
-- [Kirjanpito käytännössä](https://docs.nocfo.io/accounting-in-practice) - Miten tehdä kirjanpitoa käytännössä maksuperusteisesti
+- [Kirjanpidon rakenne](https://docs.nocfo.io/accounting/accounting-structure) - Mistä kirjanpito koostuu. Varat, velat, oma pääoma, tulot ja menot.
+- [Kirjanpito käytännössä](https://docs.nocfo.io/accounting/accounting-in-practice) - Miten tehdä kirjanpitoa käytännössä maksuperusteisesti
