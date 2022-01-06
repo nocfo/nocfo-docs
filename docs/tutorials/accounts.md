@@ -20,6 +20,7 @@ Tilikartan löydät Tilit-välilehden takaa. Tilien määrä vaihtelee valitun k
 Turhien tilien poisto onnistuu myös helposti tilin asetuksista
 
 ## alv-käsittely
+
 **Ei verokäsittelyä**: Valitse tämä, jos et halua tilille erillistä alv-käsittelyä.
 
 **Kotimaan verollinen osto**: Valitse tämä, kun ostat verollisia tuotteita tai palveluita Suomesta.
@@ -30,7 +31,7 @@ Turhien tilien poisto onnistuu myös helposti tilin asetuksista
 
 **Tavaroiden myynti EU-maihin**: Valitse tämä, kun myyt tavaroita toiselle arvonlisäverovelvolliselle EU-alueella. Lisätietoja yhteisökaupasta löydät [Verottajan sivuilta](https://www.vero.fi/yritykset-ja-yhteisot/verot-ja-maksut/arvonlisaverotus/ulkomaankauppa/yhteisokauppa/).
 
-**Palveluiden myynti EU-maihin**: Valitse tämä, kun myyt palveluita toiselle arvonlisäverovelvolliselle EU-alueella. Lisätietoja löydät [Verottajan sivuilta](https://www.vero.fi/yritykset-ja-yhteisot/verot-ja-maksut/arvonlisaverotus/ilmoitus-ja-maksuohjeet/arvonlisaveroilmoituksen-tayttoohje/). 
+**Palveluiden myynti EU-maihin**: Valitse tämä, kun myyt palveluita toiselle arvonlisäverovelvolliselle EU-alueella. Lisätietoja löydät [Verottajan sivuilta](https://www.vero.fi/yritykset-ja-yhteisot/verot-ja-maksut/arvonlisaverotus/ilmoitus-ja-maksuohjeet/arvonlisaveroilmoituksen-tayttoohje/).
 
 **Tavaroiden osto EU-maista**: Valitse tämä, kun ostat tavaroita toiselta arvonlisäverovelvolliselta EU-alueelta. Lisätietoja yhteisökaupasta löydät [Verottajan sivuilta](https://www.vero.fi/yritykset-ja-yhteisot/verot-ja-maksut/arvonlisaverotus/ulkomaankauppa/yhteisokauppa/).
 
@@ -43,4 +44,3 @@ Turhien tilien poisto onnistuu myös helposti tilin asetuksista
 **Rakentamispalveluiden osto**: Valitse tämä, jos rakentamispalveluiden ostossa sovelletaan käänteistä verovelvollisuutta. Lisätietoja löydät [Verottajan sivuilta](https://www.vero.fi/yritykset-ja-yhteisot/verot-ja-maksut/arvonlisaverotus/toimialakohtaista-tietoa/rakennusalan-kaannetty-arvonlisaverovelvollisuus/).
 
 **Rakentamispalveluiden myynti**: Valitse tämä, jos rakentamispalveluiden myynnissä sovelletaan käänteistä verovelvollisuutta. Lisätietoja löydät [Verottajan sivuilta](https://www.vero.fi/yritykset-ja-yhteisot/verot-ja-maksut/arvonlisaverotus/toimialakohtaista-tietoa/rakennusalan-kaannetty-arvonlisaverovelvollisuus/).
-
