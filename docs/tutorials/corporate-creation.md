@@ -21,6 +21,6 @@ Yrityksen lisääminen tapahtuu seuraavasti:
   - **Perus**: Peruskarttaan on pyritty valitsemaan yleisimmin tarvittavia kirjanpidon tilejä, jotka sopivat kaiken kokoisille yrityksille.
   - **Laaja**: Tilien määrä on massiivinen, eli heikompaa alkaa hirvittämään. Laaja kartta kannattaa valita, jos haluat alkuun paljon tilejä, joista voit valita itsellesi parhaat ja käytännöllisimmät.
 
-- Jos yritys on alv-velvollinen valitaan vielä verokauden pituus. Verokauden pituus voi olla joko kuukausi, kvartaali tai vuosi.
+- Jos yritys on alv-velvollinen valitaan vielä verokauden pituus. Verokauden pituus voi olla joko [kuukausi, kvartaali tai vuosi](https://www.vero.fi/yritykset-ja-yhteisot/verot-ja-maksut/arvonlisaverotus/ilmoitus-ja-maksuohjeet/verokauden-muutos/).
 - Viimeisenä tietona annetaan nykyisen tilikauden aloitus- ja päättymispäivämäärä. Jos yritys on aloittanut toimintansa tästä tilikaudesta klikataan vielä boksi siniseksi
 - Yritys ilmestyy etusivulle
